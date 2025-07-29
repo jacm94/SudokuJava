@@ -25,3 +25,11 @@ A simple and interactive Sudoku game built using Java and Swing. The application
    ```bash
    git clone https://github.com/your-username/sudoku-java.git
    cd sudoku-java
+
+## 🧱 Project Structure
+
+    ├── App.java        # Entry point
+    ├── Sudoku.java     # Game logic and GUI
+    ├── README.md       # Project documentation
+
+
